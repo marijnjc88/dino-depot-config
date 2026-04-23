@@ -484,68 +484,6 @@
             ]
         },
         {
-            "dinoType": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 15.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                                {
-                                    "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
-                                    "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 15.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                                {
-                                    "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
-                                    "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "dinoType": "/TheSunkenWorldAdditions/Assets/Creatures/SeaUrchin/UrchinTSW_Character_BP.UrchinTSW_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
@@ -1016,58 +954,6 @@
             ]
         },
         {
-            "dinoType": "/PA_Plus_Pack_01/Dinos/ObeliskSquid/PA_Obelisksquid_Character_BP.PA_Obelisksquid_Character_BP",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 240.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "/PA_Plus_Pack_01/Dinos/ObeliskSquid/Aberrant/PA_Aberrant_Obelisksquid_Character_BP.PA_Aberrant_Obelisksquid_Character_BP",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 240.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "dinoType": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
@@ -1273,99 +1159,6 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "/Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 360.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Menagerie/Items/Consumables/Fermented_Narcoberries/PrimalItemConsumable_Berry_Detoxified_Narcoberry.PrimalItemConsumable_Berry_Detoxified_Narcoberry",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 1,
-                            "consumesItems": [
-                                {
-                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry",
-                                    "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "/Menagerie/Dinos/Plateosaurus/Variants/Scorched/Plateosaurus_M_Character_BP_Scorched.Plateosaurus_M_Character_BP_Scorched",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 360.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Menagerie/Items/Consumables/Fermented_Narcoberries/PrimalItemConsumable_Berry_Detoxified_Narcoberry.PrimalItemConsumable_Berry_Detoxified_Narcoberry",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 1,
-                            "consumesItems": [
-                                {
-                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry",
-                                    "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "/Menagerie/Dinos/Plateosaurus/Variants/Aberrant/Plateosaurus_M_Character_BP_Aberrant.Plateosaurus_M_Character_BP_Aberrant",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 360.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Menagerie/Items/Consumables/Fermented_Narcoberries/PrimalItemConsumable_Berry_Detoxified_Narcoberry.PrimalItemConsumable_Berry_Detoxified_Narcoberry",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 1,
-                            "consumesItems": [
-                                {
-                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry",
-                                    "quantityPerItem": 2,
                                     "maxQuantityPerCycle": 0
                                 }
                             ]
@@ -1615,73 +1408,34 @@
             ]
         },
         {
-            "dinoType": "/MorosTylosaurus/Dinos/Tylosaurus/Blueprints/MoroTylosaurus_character_bp.MoroTylosaurus_character_bp",
-            "chanceToProduce": 1.0,
-            "produces": [
-                {
-                    "intervalSeconds": 15.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_TranqVenom_M.PrimalItemConsumable_TranqVenom_M",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 30.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_DeadlyVenom_M.PrimalItemConsumable_DeadlyVenom_M",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_PheromoneVenom_M.PrimalItemConsumable_PheromoneVenom_M",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire",
+			"chanceToProduce": 1.0,
+			"produces": [
+				{
+					"intervalSeconds": 86400.0,
+					"itemSelectMode": 0,
+					"items": [
+						{
+							"bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk",
+							"maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [
+                            ],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": [
+                            ]
+						}
+					]
+				}
+			]
+        },
+        
+        {
+            "dinoType": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice",
 			"chanceToProduce": 1.0,
 			"produces": [
 				{
@@ -1734,32 +1488,6 @@
         },
         {
             "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison",
-			"chanceToProduce": 1.0,
-			"produces": [
-				{
-					"intervalSeconds": 86400.0,
-					"itemSelectMode": 0,
-					"items": [
-						{
-							"bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk",
-							"maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
-						}
-					]
-				}
-			]
-        },
-        {
-            "dinoType": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice",
 			"chanceToProduce": 1.0,
 			"produces": [
 				{
