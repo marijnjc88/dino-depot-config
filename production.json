@@ -974,7 +974,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal",
                                     "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -998,12 +999,14 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
                                     "quantityPerItem": 6,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide",
                                     "quantityPerItem": 5,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1027,7 +1030,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1051,7 +1055,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1075,7 +1080,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1105,7 +1111,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1129,7 +1136,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1153,7 +1161,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1177,7 +1186,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1201,7 +1211,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
@@ -1231,7 +1242,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
                                 }
                             ]
                         }
