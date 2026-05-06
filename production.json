@@ -3,10 +3,10 @@
     "production": [
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 60,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -16,17 +16,15 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 },
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -36,12 +34,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -49,10 +45,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 60,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -62,17 +58,15 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 },
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -82,12 +76,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -95,10 +87,10 @@
         },
         {
             "dinoType": "/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -108,12 +100,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -121,10 +111,10 @@
         },
         {
             "dinoType": "/NoUntameables/Ammonite/Ammonite_Character_Aberrant_Tameable.Ammonite_Character_Aberrant_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -134,12 +124,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -147,10 +135,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -160,12 +148,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems":[
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -173,10 +159,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -186,12 +172,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems":[
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -202,7 +186,7 @@
             "chanceToProduce": 0.5,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -212,12 +196,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -225,10 +207,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -238,12 +220,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -251,10 +231,10 @@
         },
         {
             "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -264,12 +244,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -277,10 +255,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -290,12 +268,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -303,10 +279,10 @@
         },
         {
             "dinoType": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 3600.0,
+                    "intervalSeconds": 3600,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -316,12 +292,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -329,10 +303,10 @@
         },
         {
             "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP.BombardierBeetle_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 40.0,
+                    "intervalSeconds": 40,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -342,12 +316,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -355,10 +327,10 @@
         },
         {
             "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 40.0,
+                    "intervalSeconds": 40,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -368,12 +340,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -381,10 +351,10 @@
         },
         {
             "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Chemical.BombardierBeetle_Character_BP_Chemical",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 40.0,
+                    "intervalSeconds": 40,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -394,12 +364,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -407,10 +375,10 @@
         },
         {
             "dinoType": "/TheSunkenWorldAdditions/Assets/Creatures/Bothriolepis/BothriTSW_Character_BP.BothriTSW_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 120.0,
+                    "intervalSeconds": 120,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -420,12 +388,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -433,10 +399,10 @@
         },
         {
             "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -446,12 +412,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -459,10 +423,10 @@
         },
         {
             "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Aberrant_Tameable.Cnidaria_Character_BP_Aberrant_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -472,12 +436,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -485,10 +447,10 @@
         },
         {
             "dinoType": "/TheSunkenWorldAdditions/Assets/Creatures/SeaUrchin/UrchinTSW_Character_BP.UrchinTSW_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 60,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -498,17 +460,15 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 },
                 {
-                    "intervalSeconds": 480.0,
+                    "intervalSeconds": 480,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -518,12 +478,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -531,10 +489,10 @@
         },
         {
             "dinoType": "/NickDiamantinasaurus/Diamantinasaurus/NDiamantinasaurus_Character_BP.NDiamantinasaurus_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -544,12 +502,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -557,10 +513,10 @@
         },
         {
             "dinoType": "/NickDiamantinasaurus/Diamantinasaurus/ScorchedVariant/ScorchedNDiamantinasaurus_Character_BP.ScorchedNDiamantinasaurus_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -570,12 +526,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -583,10 +537,10 @@
         },
         {
             "dinoType": "/NickDiamantinasaurus/Diamantinasaurus/AberrationVariant/AberrantNDiamantinasaurus_Character_BP.AberrantNDiamantinasaurus_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -596,12 +550,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -609,10 +561,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -622,12 +574,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
@@ -636,12 +586,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -649,10 +597,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -662,12 +610,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
@@ -676,12 +622,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -689,10 +633,10 @@
         },
         {
             "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -712,8 +656,7 @@
                             ],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -721,10 +664,10 @@
         },
         {
             "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Aberrant_Tameable.Euryp_Character_Aberrant_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -744,8 +687,7 @@
                             ],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -753,10 +695,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -766,12 +708,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -779,10 +719,10 @@
         },
         {
             "dinoType": "/Game/Mods/NoUntameables/JugBug/Jugbug_Element_Character_BP_Tameable.Jugbug_Element_Character_BP_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -792,12 +732,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -805,10 +743,10 @@
         },
         {
             "dinoType": "/Game/Mods/NoUntameables/JugBug/Jugbug_Oil_Character_BP_Tameable.Jugbug_Oil_Character_BP_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -818,12 +756,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -831,10 +767,10 @@
         },
         {
             "dinoType": "/NoUntameables/JugBug/Jugbug_RedElement_Character_BP_Tameable.Jugbug_RedElement_Character_BP_Tameable",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300.0,
+                    "intervalSeconds": 300,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -844,12 +780,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -857,10 +791,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 3600.0,
+                    "intervalSeconds": 3600,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -870,12 +804,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -883,10 +815,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Leech/Leech_Character_Diseased.Leech_Character_Diseased",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 3600.0,
+                    "intervalSeconds": 3600,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -896,12 +828,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -909,10 +839,10 @@
         },
         {
             "dinoType": "/TheSunkenWorldAdditions/Assets/Creatures/Lepidotes/LepiTSW_Character_BP.LepiTSW_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 60,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -922,17 +852,15 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 },
                 {
-                    "intervalSeconds": 3600.0,
+                    "intervalSeconds": 3600,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -942,12 +870,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -955,10 +881,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -968,12 +894,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -981,10 +905,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900.0,
+                    "intervalSeconds": 900,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -994,12 +918,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -1007,10 +929,10 @@
         },
         {
             "dinoType": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1030,13 +952,12 @@
                             ],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 },
                 {
-                    "intervalSeconds": 5.0,
+                    "intervalSeconds": 5,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1046,8 +967,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1061,7 +981,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 5.0,
+                    "intervalSeconds": 5,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1071,8 +991,7 @@
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1091,7 +1010,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 5.0,
+                    "intervalSeconds": 5,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1101,8 +1020,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1116,7 +1034,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 5.0,
+                    "intervalSeconds": 5,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1126,8 +1044,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1141,7 +1058,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 5.0,
+                    "intervalSeconds": 5,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1151,8 +1068,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1169,10 +1085,10 @@
         },
         {
             "dinoType": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 15.0,
+                    "intervalSeconds": 15,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1182,8 +1098,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1197,7 +1112,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 15.0,
+                    "intervalSeconds": 15,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1207,8 +1122,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1222,7 +1136,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 15.0,
+                    "intervalSeconds": 15,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1232,8 +1146,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1247,7 +1160,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 1800.0,
+                    "intervalSeconds": 1800,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1257,8 +1170,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1272,7 +1184,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 1800.0,
+                    "intervalSeconds": 1800,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1282,8 +1194,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1300,10 +1211,10 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 60,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1313,8 +1224,7 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 1,
                             "consumesItems": [
@@ -1331,10 +1241,10 @@
         },
 		{
 			"dinoType": "/ATScotoharpes/Scotoharpes/Scotoharpes_character_BP.Scotoharpes_character_BP",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 60.0,
+					"intervalSeconds": 60,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1344,12 +1254,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
@@ -1357,10 +1265,10 @@
 		},
 		{
 			"dinoType": "/ATScotoharpes/Scotoharpes/Scotoharpes_character_BP_Aberrant.Scotoharpes_character_BP_Aberrant",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 60.0,
+					"intervalSeconds": 60,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1370,12 +1278,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
@@ -1383,10 +1289,10 @@
 		},
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP",
-            "chanceToProduce": 1.0,
+            "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 240,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -1396,12 +1302,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
                         }
                     ]
                 }
@@ -1409,10 +1313,10 @@
         },
         {
             "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 86400.0,
+					"intervalSeconds": 86400,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1422,24 +1326,21 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
 			]
         },
-        
         {
             "dinoType": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 86400.0,
+					"intervalSeconds": 86400,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1449,12 +1350,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
@@ -1462,10 +1361,10 @@
         },
         {
             "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 86400.0,
+					"intervalSeconds": 86400,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1475,12 +1374,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
@@ -1488,10 +1385,10 @@
         },
         {
             "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison",
-			"chanceToProduce": 1.0,
+			"chanceToProduce": 1,
 			"produces": [
 				{
-					"intervalSeconds": 86400.0,
+					"intervalSeconds": 86400,
 					"itemSelectMode": 0,
 					"items": [
 						{
@@ -1501,12 +1398,10 @@
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
-                            "alternateItems": [
-                            ],
+                            "alternateItems": [],
                             "consumesSelectMode": 0,
                             "consumesItemsChance": 0,
-                            "consumesItems": [
-                            ]
+                            "consumesItems": []
 						}
 					]
 				}
