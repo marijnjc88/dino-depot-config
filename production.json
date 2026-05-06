@@ -718,7 +718,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/JugBug/Jugbug_Element_Character_BP_Tameable.Jugbug_Element_Character_BP_Tameable",
+            "dinoType": "/NoUntameables/JugBug/Jugbug_Element_Character_BP_Tameable.Jugbug_Element_Character_BP_Tameable",
             "chanceToProduce": 1,
             "produces": [
                 {
@@ -742,7 +742,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/JugBug/Jugbug_Oil_Character_BP_Tameable.Jugbug_Oil_Character_BP_Tameable",
+            "dinoType": "/NoUntameables/JugBug/Jugbug_Oil_Character_BP_Tameable.Jugbug_Oil_Character_BP_Tameable",
             "chanceToProduce": 1,
             "produces": [
                 {
