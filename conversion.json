@@ -1,8 +1,8 @@
 {
     "dinoMappings": [
         {
-            "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
-            "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C"
+            "fromClass": "/TheSunkenWorldAdditions/Assets/Creatures/Protoceratops/RamGoat_Old.RamGoat_Old_C",
+            "toClass": "/TheSunkenWorldAdditions/Assets/Creatures/Protoceratops/ProtoTSW_Character_BP.ProtoTSW_Character_BP_C"
         }
     ]
 }
